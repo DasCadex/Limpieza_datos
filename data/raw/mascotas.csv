@@ -1,0 +1,51 @@
+id_mascota,nombre,especie,raza,edad_años,peso_kg,fecha_consulta,dueño_nombre,dueño_email,motivo_consulta,costo_consulta
+1,Firulais,perro,Labrador,3,28.5,2023-03-15,Juan Pérez,juan.perez@gmail.com,Control rutinario,25000
+2,FIRULAIS,Perro,labrador,3,28.5,2023-03-15,Juan Pérez,juan.perez@gmail.com,Control rutinario,25000
+3,Mishi,GATO,Siamés,,4.2,15/04/2023,,ana.gomez@hotmail.com,Vacunación,18000
+4,Rex,perro,Pastor Alemán,7,350.0,2023-05-20,Carlos Muñoz,rex_owner@vet.com,Revisión general,30000
+5,Pelusa,Cat,Persa,2,3.8,20230601,María Torres,pelusa@gmail.com,Desparasitación,15000
+6,,,,,,,,,,
+7,Coco,perro,Chihuahua,1,2.1,2023-07-10,Roberto Lagos,coco@gmail.com,Primera consulta,20000
+8,Luna,gato,Angora,5,4.8,2023-07-22,Claudia Vega,luna.vega@gmail.com,Revisión dental,35000
+9,Toby,PERRO,Golden Retriever,4,32.1,22/08/2023,Pedro Álvarez,toby@mail.cl,Control rutinario,25000
+10,Nala,gata,Doméstico,,3.5,2023-09-05,Isabel Rojas,nala.rojas@gmail.com,Esterilización,80000
+11,Max,perro,Bulldog,6,28.9,2023-09-18,Fernando Soto,max.soto@gmail.com,Vacunación,18000
+12,Whiskers,gato,Maine Coon,3,6.2,20230930,Valentina Cruz,whiskers@gmail.com,Revisión general,25000
+13,Bella,Perro,Beagle,2,10.5,2023-10-12,Andrés Mora,bella.mora@gmail.com,Desparasitación,15000
+14,Simba,GATO,Bengalí,1,4.1,2023-10-25,Carolina Díaz,simba@mail.cl,Vacunación,18000
+15,Rocky,perro,Boxer,5,30.2,2023-11-08,Diego Herrera,rocky@gmail.com,Control cardíaco,45000
+16,Michi,cat,Doméstico,8,4.9,08/11/2023,Patricia Flores,michi.flores@hotmail.com,Revisión general,25000
+17,Zeus,perro,Rottweiler,,45.3,2023-11-20,Gonzalo Reyes,zeus@gmail.com,Control rutinario,25000
+18,Pelusa,gato,Persa,2,3.8,2023-11-28,María Torres,pelusa@gmail.com,Control post-cirugía,30000
+19,Kira,PERRA,Husky,3,22.7,20231205,Sofía Martínez,kira@gmail.com,Vacunación,18000
+20,Garfield,gato,Doméstico,10,9999.0,2023-12-10,Jorge Castillo,garfield@gmail.com,Control de peso,25000
+21,Lola,perro,Caniche,4,5.2,2023-12-18,Camila Ortiz,lola.ortiz@gmail.com,Revisión dental,35000
+22,Nemo,pez,Payaso,,0.05,2024-01-08,Ricardo Pinto,nemo@gmail.com,Revisión general,15000
+23,Manchas,GATO,Doméstico,6,4.3,08/01/2024,Elena Vargas,manchas@mail.cl,Desparasitación,15000
+24,Bruno,perro,Labrador,9,33.8,2024-01-22,Tomás Ibáñez,bruno@gmail.com,Control geriátrico,40000
+25,Mia,gata,Siamés,,3.9,20240205,Natalia Sánchez,mia.sanchez@gmail.com,Esterilización,80000
+26,Thor,perro,San Bernardo,2,68.5,2024-02-14,Héctor Vidal,thor@gmail.com,Control rutinario,25000
+27,Kitty,Cat,Angora,4,4.0,2024-02-28,Lorena Muñoz,kitty@hotmail.com,Vacunación,18000
+28,Pancho,PERRO,Mestizo,7,18.3,28/02/2024,Sebastián López,pancho@gmail.com,Revisión general,25000
+29,Mia,gata,Siamés,,3.9,2024-03-10,Natalia Sánchez,mia.sanchez@gmail.com,Control post-cirugía,30000
+30,Cleo,perro,Dálmata,3,24.6,2024-03-18,Gabriela Núñez,cleo@gmail.com,Desparasitación,15000
+31,Oscar,gato,Doméstico,11,5.7,20240401,Marcelo Fuentes,oscar@gmail.com,Control geriátrico,40000
+32,Lassy,perra,Collie,6,28.1,2024-04-10,Daniela Campos,lassy@gmail.com,Control rutinario,25000
+33,,,Doméstico,3,4.5,2024-04-15,Luis Espinoza,sin_nombre@mail.cl,Vacunación,18000
+34,Buba,PERRO,Pitbull,,22.4,15/04/2024,Alejandro Ríos,buba@gmail.com,Revisión general,25000
+35,Salem,gato,Doméstico,7,4.2,2024-04-28,Francisca León,salem@gmail.com,Revisión dental,35000
+36,Duque,perro,Doberman,4,34.9,2024-05-05,Matías Urrea,duque@gmail.com,Control rutinario,25000
+37,Mimi,GATA,Doméstico,2,3.1,20240518,Catalina Peña,mimi@hotmail.com,Esterilización,80000
+38,Bolt,perro,Dálmata,1,20.8,2024-05-22,Nicolás Castro,bolt@gmail.com,Primera consulta,20000
+39,Cleo,perro,Dálmata,3,24.6,2024-05-30,Gabriela Núñez,cleo@gmail.com,Control rutinario,25000
+40,Mufasa,GATO,Maine Coon,5,7.3,30/05/2024,Victoria Rojas,mufasa@gmail.com,Revisión general,25000
+41,Fido,perro,Mestizo,-1,15.2,2024-06-05,Pablo Herrera,fido@gmail.com,Vacunación,18000
+42,Luna,gato,Angora,5,4.8,2024-06-12,Claudia Vega,luna.vega@gmail.com,Revisión dental,35000
+43,Toto,perro,Schnauzer,3,8.9,20240620,Ignacio Álvarez,toto@gmail.com,Desparasitación,15000
+44,Missy,gata,Persa,6,4.4,2024-06-28,Renata Molina,missy@gmail.com,Control rutinario,25000
+45,Rex,perro,Pastor Alemán,7,350.0,2024-07-05,Carlos Muñoz,rex_owner@vet.com,Control anual,30000
+46,Paco,Loro,Cotorra,,0.15,2024-07-10,Eduardo Torres,paco@gmail.com,Revisión general,20000
+47,Canela,perra,Cocker Spaniel,4,13.7,10/07/2024,Paulina Romero,canela@mail.cl,Vacunación,18000
+48,Gohan,PERRO,Labrador,2,29.3,2024-07-22,Cristóbal Vera,gohan@gmail.com,Control rutinario,25000
+49,Nala,gata,Doméstico,,3.5,2024-07-30,Isabel Rojas,nala.rojas@gmail.com,Control post-op,30000
+50,Chispas,perro,Chihuahua,8,2.8,20240808,Amanda Jiménez,chispas@gmail.com,Control geriátrico,40000
